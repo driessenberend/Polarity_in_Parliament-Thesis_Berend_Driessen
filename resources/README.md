@@ -10,6 +10,7 @@
 
 ## Resources webapplication
 * [Your first elasticsearch application](https://betterprogramming.pub/your-first-elasticsearch-application-7db5ea74ef02)
+* [Using DJANGO and ElasticSearch](https://testdriven.io/blog/django-drf-elasticsearch/)
 * ADD --> Architecture of an elasticsearch webapplication
 
 ## Related Papers
