@@ -1,7 +1,7 @@
 ## Table of Contents
 
 <!--ts-->
-   * [Resources for building the webapplication] (#Resources-webapplication)
+   * [Resources for building the webapplication](#resources-webapplication)
    * [Code](#code)
    * [Data &amp; APIs &amp; Maps](#data--apis--maps)
    * [Cool examples](#cool-examples)
@@ -10,7 +10,7 @@
 
 
 ## Resources webapplication
-* [https://betterprogramming.pub/your-first-elasticsearch-application-7db5ea74ef02]
+* [Your first elasticsearch application](https://betterprogramming.pub/your-first-elasticsearch-application-7db5ea74ef02)
 
 ## Related Papers
 * [`Public Theses`](https://drive.google.com/drive/folders/1QsvDXOQD4DIvsqgwR5NpUBcX7bg9eT-Q?usp=sharing) of some of our past interns (both AI & DS)
