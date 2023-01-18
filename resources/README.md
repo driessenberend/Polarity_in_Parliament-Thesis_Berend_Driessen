@@ -3,37 +3,28 @@
 <!--ts-->
    * [Resources for building the webapplication](#resources-webapplication)
    * [Code](#code)
-   * [Data &amp; APIs &amp; Maps](#data--apis--maps)
+   * [Data &amp; APIs &amp; Maps](#data--apis)
    * [Cool examples](#cool-examples)
    * [Other books, tools, etc](#other-books-tools-etc)
 <!--te-->
 
-
 ## Resources webapplication
 * [Your first elasticsearch application](https://betterprogramming.pub/your-first-elasticsearch-application-7db5ea74ef02)
+* ADD --> Architecture of an elasticsearch webapplication
 
 ## Related Papers
-* [`Public Theses`](https://drive.google.com/drive/folders/1QsvDXOQD4DIvsqgwR5NpUBcX7bg9eT-Q?usp=sharing) of some of our past interns (both AI & DS)
-* Helwegen, Rik, Christos Louizos, and Patrick Forré. [`"Improving Fair Predictions Using Variational Inference In Causal Models."`](https://arxiv.org/abs/2008.10880) arXiv preprint arXiv:2008.10880 (2020).
-* Sukel, Maarten, Stevan Rudinac, and Marcel Worring. [`"Multimodal classification of urban micro-events."`](https://dl.acm.org/doi/abs/10.1145/3343031.3350967)  Proceedings of the 27th ACM International Conference on Multimedia. 2019.
-* Sukel, Maarten, Stevan Rudinac, and Marcel Worring. [`"Urban Object Detection Kit: A System for Collection and Analysis of Street-Level Imagery."`](https://dl.acm.org/doi/abs/10.1145/3372278.3390708) Proceedings of the 2020 International Conference on Multimedia Retrieval. 2020.
-
+* EXAMPLE: [`Public Theses`](https://drive.google.com/drive/folders/1QsvDXOQD4DIvsqgwR5NpUBcX7bg9eT-Q?usp=sharing) of some of our past interns (both AI & DS)
+* EXAMPLE: Sukel, Maarten, Stevan Rudinac, and Marcel Worring. [`"Urban Object Detection Kit: A System for Collection and Analysis of Street-Level Imagery."`](https://dl.acm.org/doi/abs/10.1145/3372278.3390708) Proceedings of the 2020 International Conference on Multimedia Retrieval. 2020.
 
 ## Code 
 * [`AI Team Github`](https://github.com/Amsterdam-AI-Team/)
-* [`Amsterdam Github`](https://github.com/Amsterdam)
 
-## Data & APIs & Maps
-* [`Opendata Amsterdam`](http://data.amsterdam.nl)
-* [`RESTful API Amsterdam`](https://api.data.amsterdam.nl/api/)
-* [`Maps Amsterdam`](https://maps.amsterdam.nl/) ([`Bicycle symbols`](https://maps.amsterdam.nl/fietsnetwerk/) added by Chris)
-* [`Government Data`](https://data.overheid.nl/en/datasets)
+## Data
+* [`General project information`](https://www.clarin.eu/parlamint#introduction)
+* [`ParlaMint 2.1`](https://www.clarin.si/repository/xmlui/handle/11356/1432)
 
 ## Cool examples
-* [`Nice (and fun!) example by Jurian Baas`](https://nbviewer.jupyter.org/github/jurb/wormhotels/blob/master/Having%20a%20look%20at%20the%20worm%20hotels%20in%20Amsterdam.ipynb)
-  of using [`open city data`](https://data.amsterdam.nl/),
-  calculating distances between addresses using [`OSRM`](http://project-osrm.org/)
-  and visualizing geospatial stuffs with [`Folium`](https://github.com/python-visualization/folium)
+* Insert example of elasticsearch webapplication
 
 ## Other books, tools, etc
 
