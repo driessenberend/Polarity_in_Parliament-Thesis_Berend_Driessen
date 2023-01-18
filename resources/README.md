@@ -1,66 +1,22 @@
 ## Table of Contents
 
 <!--ts-->
-   * [More about AI &amp; Cities](#more-about-ai--cities)
-   * [More about the work of the AI Team &amp; Past interns](#more-about-the-work-of-the-ai-team--past-interns)
+   * [Resources for building the webapplication] (#Resources-webapplication)
    * [Code](#code)
    * [Data &amp; APIs &amp; Maps](#data--apis--maps)
    * [Cool examples](#cool-examples)
    * [Other books, tools, etc](#other-books-tools-etc)
 <!--te-->
 
-## Amsterdam Intelligence
-* The [`Amsterdam Intelligene website`](https://www.amsterdamintelligence.com/) and our own [`Internship Stories`](https://www.amsterdamintelligence.com/projects/amsterdam-internships)
 
-## More about AI & Cities
+## Resources webapplication
+* [https://betterprogramming.pub/your-first-elasticsearch-application-7db5ea74ef02]
 
-#### Vision, strategy, principles...
-
-* [`The tada principles`](https://tada.city/en/home-en/)
-* [`Agenda AI`](https://assets.amsterdam.nl/publish/pages/964754/agenda_ai_nl.pdf)
-* [`Magazine Amsterdamse intelligentie`](https://www.amsterdam.nl/wonen-leefomgeving/innovatie/de-digitale-stad/amsterdamse-intelligentie/)
-* [`AI Magazine VNG`](https://ai-magazine.vngrealisatie.nl/)
-* [`Slides werkgroep AI voor Publieke Diensten (Amsterdamse AI Coalitie en Agenda AI)`](https://docs.google.com/presentation/d/12Ox7m7FCvrf9egQThrPFvTbpwRE6VB-fCIKIy2RlTN4/edit?usp=sharing)
-* New Scientist over AI Tech for People [`ENG`](https://issuu.com/vmadmin/docs/special_ai_technology_for_people_2020_engels)
-and [`NL`](https://issuu.com/vmadmin/docs/special_ai_technology_for_people_20_21f90b6c80166b)
-* [`openresearch.amsterdam`](https://openresearch.amsterdam/)  - digital platform for research, knowledge, and innovation about Amsterdam and the metropolitan area
-
-
-#### Existing projects / initiatives
-* [`Algorithm Register`](https://algoritmeregister.amsterdam.nl/)
-* [`Signalen (Meldingen)`](http://www.signalen.org) ([`github`](https://github.com/Amsterdam/signals))
-* [`Object Detectie Kit`](http://www.odk.ai)
-
-#### Meetups
-* [`Amsterdam Intelligence`](https://www.meetup.com/amsterdam-intelligence)
-* [`DataLab`](https://www.meetup.com/DataLab-Amsterdam/)
-
-## More about the work of the AI Team & Past interns
-### In the media
-* An article about [`fair and explainable algorithms`](https://www.cbs.nl/nl-nl/corporate/2021/17/onderzoek-naar-eerlijke-en-uitlegbare-algoritmen) featuring our Joosje Goedhart.
-* [`Rik Helewegen graduated one year earlier`](https://ivi.uva.nl/content/news/2019/08/how-fair-is-the-application-of-algorithms.html) by developing his causality-based method [`FairTrade`](https://github.com/rik-helwegen/FairTrade) together with the City of Amsterdam.
-* An article about the [`Data Systems Project about predicting crowdedness at public transport stations`](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/news/2021/04/information-studies-masters-students-predict-traffic-density-at-public-transport-stations.html) that later grew into Rajeev Kalloe's MSc Data Science graduation research
-* Ex-intern current AI-Team-er Chris Eijgenstein about his work on [`Enhancing 3D City Models`](https://medium.com/@chrise96/a-deep-learning-approach-to-enhance-3d-city-models-caba7b2073d6)
-* An article about  [`using algorithms to prevent housing fraud`](https://www.volkskrant.nl/nieuws-achtergrond/amsterdam-komt-met-algoritme-tegen-illegale-vakantieadressen~bca70b1f/) in Amsterdam - an issue which inspired multiple theses projects in the past.
-
-### Presentations
-* Posters 2019: [`The AI & DS Graduation Fair (DemoDonderdag)`](https://drive.google.com/drive/folders/1KFy2twPnKUr4b3i21a2-TDFsM3bB0Gw1)
-* Intern Presentations 2020: [`AI & DS on the streets of Amsterdam`](https://docs.google.com/presentation/d/1Kas4UOZeM4EsC0dMb0BTeMvn3l_Hs1dccypXH9gyJM4/edit?usp=sharing)
-* Intern Presentations 2020: [`AI & DS for the people of Amsterdam`](https://docs.google.com/presentation/d/1LNX6Jk5MNHHiPmIhf6bxGtCdny4QytC1xDcCFL-Ubb8/edit?usp=sharing)
-* Intern Presentations 2021: [`AI & DS for the City of Amsterdam (Part 1)`](https://docs.google.com/presentation/d/1G7BG4cw9dpeaQrCj9rmQxrdNgsoUC08PB5Q9VKbLuFc/edit?usp=sharing)
-* Intern Presentations 2021: [`AI & DS for the City of Amsterdam (Part 2)`](https://docs.google.com/presentation/d/1cZ4JUJdbljRNE5CbFT5bMUXZn3Q8EGskh69albqv3ww/edit?usp=sharing)
-* Intern Presentations 2022: [`Research Directions AI Group`](https://docs.google.com/presentation/d/1yFI3Dvl_hkiS4rB56VGlow4E-Y2aGhiGR8u_F23rAl0/edit?usp=sharing)
-* Posters 2022 (Midterm): [`The AI & DS Midterm Progress Fair (DemoDonderdag)`](https://drive.google.com/drive/folders/1BCtkUJtY7Qfraa8ME3C02-oilke-OGhP?usp=sharing)
-* Intern Presentations 2022: [`AI & DS for the City of Amsterdam`](https://docs.google.com/presentation/d/1TXAbNCQx8PB_6cIwr29yuabi8uKzRBwd9wtZf12dC6s/edit#slide=id.g13abc91c675_46_61)
-* Slides: [`Amsterdam Intelligence Meetup 2020-10-15`](https://drive.google.com/file/d/1AR2cavqIYccMGvHHQU6uAhyHp_m-xZ1c/view?usp=sharing)
-* Video: [`ADS Webinar 2021-05-26`](https://www.youtube.com/watch?v=1-EEhND1_1U)
-
-### Related Papers
+## Related Papers
 * [`Public Theses`](https://drive.google.com/drive/folders/1QsvDXOQD4DIvsqgwR5NpUBcX7bg9eT-Q?usp=sharing) of some of our past interns (both AI & DS)
 * Helwegen, Rik, Christos Louizos, and Patrick Forré. [`"Improving Fair Predictions Using Variational Inference In Causal Models."`](https://arxiv.org/abs/2008.10880) arXiv preprint arXiv:2008.10880 (2020).
 * Sukel, Maarten, Stevan Rudinac, and Marcel Worring. [`"Multimodal classification of urban micro-events."`](https://dl.acm.org/doi/abs/10.1145/3343031.3350967)  Proceedings of the 27th ACM International Conference on Multimedia. 2019.
 * Sukel, Maarten, Stevan Rudinac, and Marcel Worring. [`"Urban Object Detection Kit: A System for Collection and Analysis of Street-Level Imagery."`](https://dl.acm.org/doi/abs/10.1145/3372278.3390708) Proceedings of the 2020 International Conference on Multimedia Retrieval. 2020.
-
 
 
 ## Code 
