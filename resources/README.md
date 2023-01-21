@@ -11,6 +11,7 @@
 ## Resources webapplication
 * [Your first elasticsearch application](https://betterprogramming.pub/your-first-elasticsearch-application-7db5ea74ef02)
 * [Using DJANGO and ElasticSearch](https://testdriven.io/blog/django-drf-elasticsearch/)
+* [Storing data in ElasticSearch](https://medium.com/tech-explained/can-elasticsearch-store-data-4b840308ea6f)
 * ADD --> Architecture of an elasticsearch webapplication
 
 ## Related Papers
