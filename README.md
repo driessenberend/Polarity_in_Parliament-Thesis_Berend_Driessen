@@ -4,7 +4,7 @@ OVERLEAF: https://www.overleaf.com/read/khkdkpxhbxpw
 
 ---
 
-###**Research Questions  **
+### **Research Questions  **  
 Main:   
 _To what extent can semantic analysis of parliamentary debates help with identifying differences in political issues and sentiment between countries, political parties and individual speakers in the Parlamint corpus?  _
 
