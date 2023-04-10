@@ -1,4 +1,4 @@
-# Semantic analysis of parliamentary debates to identify differences in political issues and sentiment between countries, political parties and individual speakers in the ParlaMint corpus. - README
+# Semantic analysis of parliamentary debates in the ParlaMint corpus. - README
 
 OVERLEAF: https://www.overleaf.com/read/khkdkpxhbxpw
 
