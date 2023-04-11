@@ -1,6 +1,6 @@
 # Semantic analysis of parliamentary debates in the ParlaMint corpus. - README
 
-OVERLEAF: https://www.overleaf.com/read/khkdkpxhbxpw
+OVERLEAF: https://www.overleaf.com/project/643410eb44dd32ed6300f1bf
 
 ---
 
