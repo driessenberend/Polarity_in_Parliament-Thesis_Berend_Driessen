@@ -15,7 +15,7 @@ _1 		| human labelling       | human labelling
 **Parlvote shape:** 30144 rows × 26 columns  
 **Random sample:** 1000 rows  
 **BiLSTM parameters:**   
-NO cross-validation | NO parameter optimization  
+NO cross-validation | NO parameter optimization | NO class-balancing  
 lstm_units=64  
 spatial_dropout_rate=0.2  
 dense_units=32  
