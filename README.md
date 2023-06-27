@@ -2,7 +2,7 @@
 
 ## Information Studies: Data Science Track
 
-### Polarity in parliament- Assessing the potential of automatic labelling techniques and sentiment information for the analysis of parliamentary debates using neural networks, Elasticsearch and Kibana
+### Polarity in parliament - Assessing the potential of automatic labelling techniques and sentiment information for the analysis of parliamentary debates using neural networks, Elasticsearch and Kibana
 
 _Author: Berend Driessen, University of Amsterdam, submitted in partial fulfillment for the degree of master of science_
 
