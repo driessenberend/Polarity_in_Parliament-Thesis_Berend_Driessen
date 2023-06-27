@@ -6,7 +6,7 @@ Here you can find all the relevant dataset used in this thesis:
 4) [ParlGov](https://www.parlgov.org/data-info/)
 
 ### Automatic Labelling Experiments
-To run the experiments, please download the 'parlvote_concat.csv' file from [Mendeley](https://data.mendeley.com/datasets/czjfwgs9tm/1). After, download the 'Automatic labelling experiments.ipynb' file and place this in the same folder as the 'parlvote_concat.csv' file. If you have Python installed, you should then be abel to run the notebook. 
+To run the experiments, please download the 'parlvote_concat.csv' file from [Mendeley](https://data.mendeley.com/datasets/czjfwgs9tm/1). After, download the 'Automatic labelling experiments.ipynb' file and place this in the same folder as the 'parlvote_concat.csv' file. If you have Python installed, you should then be able to run the notebook. 
 
 ### Parliamentary Search Engine
 Due to file size restrictions on GitHub, the relevant files for the search engine can be downloaded from [Google Drive](https://drive.google.com/drive/folders/19ya6fb5h6cri2AJZqatImWTJ7Xz4H3uK). Here, you can find the notebook 'Search Engine.ipynb' which contains the preprocessing and the process fo loading the data into Elasticsearch. However, to experiment with the search engine, it is easier to just download the Elasticsearch and Kibana folder from the Google Drive. After you have downloaded these folders, you can open your command prompt. First, move to the Elasticsearch/bin folder and enter the command 'elasticsearch.bat'. This will start Elasticsearch. Second, move to the Kibana/bin folder and enter the command 'kibana.bat'. This will start Kibana.  
