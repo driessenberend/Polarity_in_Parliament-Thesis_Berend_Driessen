@@ -10,4 +10,4 @@ The semantic analysis of parliamentary debates is an interesting domain for unve
 
 [Code](https://github.com/driessenberend/Polarity_in_Parliament-Thesis_Berend_Driessen/tree/master/code) - This folder contains all the code and information to run the automatic labelling experiments and install the search engine. 
 
-[Thesis](https://github.com/driessenberend/Polarity_in_Parliament-Thesis_Berend_Driessen/blob/master/Polarity%20in%20Parliament%20-%20MSc%20Thesis%20Berend%20Driessen%20(14554682).pdf) – Here you can view the final thesis itself.
+[Thesis](https://github.com/driessenberend/Polarity_in_Parliament-Thesis_Berend_Driessen/blob/master/Polarity%20in%20Parliament%20-%20MSc%20Thesis%20Berend%20Driessen%20(14554682).pdf) - Here you can view the final thesis itself.
